@@ -1,4 +1,12 @@
 # ai-startup-website
+
+Install GitGit
+
+Visit the official website [Git](https://git-scm.com/downloads) and download the version of git for your operating system.
+
+- Git Download
+![Git Download](img/Git%20download%20prompt.png)
+
 ## Version-Control-System (VCS)
 
 In this project, a simulation of how two team members contributed to a project will be shown. Tom, Jerry, and Kzian
@@ -177,7 +185,12 @@ Jerry's contribution merged
 
 ### Final verification on github
 
+![Final pull](img/final%20pull.png)
+
+
+
 [Github](https://github.com/Kzian/ai-startup-website/blob/main/index.html)
+
 
 ## Tom and Jerry's updates were successfully merged with the main branch.
 
